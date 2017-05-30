@@ -7,7 +7,7 @@ const expressValidator= require('express-validator');
 const flash = require('connect-flash');
 const session = require('express-session');
 const passport = require('passport');
-// because we are using local passport 
+// local passport 
 const localStrategy= require('passport-local').Strategy;
 const mongo = require('mongodb');
 const mongoose = require('mongoose');
