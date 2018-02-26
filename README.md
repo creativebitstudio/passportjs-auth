@@ -33,14 +33,8 @@ nodemon app
 
 ### Note
 
-Although you are free to use this application as you wish, we appreciate shout outs or linking back to our codebits website  https://www.creativebitstudio.com/codebits
+Although you are free to use this application as you wish, we appreciate shout outs or linking back to our website  https://www.kodeinabox.com
 
 ### Authors
 
-* Developed for CreativeBitStudio by Danny Mack - Full Stack Developer.
-* Developer Feedback or for Hire: creativebitstudio@gmail.com.
-
-### Contact
-
-* To contact or hire us: info@creativebitstudio.com.
-* Website: www.creativebitstudio.com
+* Developed for CreativeBitStudios by Danny Mack - Full Stack Developer.
